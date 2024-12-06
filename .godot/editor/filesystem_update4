@@ -1,0 +1,9 @@
+res://scenes/test/test_scene_tilemap.tscn
+res://Tilesets/game_tile_set.tres
+res://scenes/characters/palyer/player.tscn
+res://scenes/test/test_scene_player.tscn
+res://scenes/characters/palyer/idle_state.gd
+res://scripts/game_input_events.gd
+res://scenes/characters/palyer/walk_state.gd
+res://scripts/state_machine/node_state_machine.gd
+res://scenes/characters/palyer/player.gd
